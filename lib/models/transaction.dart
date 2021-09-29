@@ -1,8 +1,3 @@
-import 'package:flutter/foundation.dart';
-// Was used to add @required keyword functionality
-// As of Flutter 2, this import was no longer needed
-// Foundation.dart was left here for reference purposes
-
 class Transaction {
   final String id;
   final String title;
